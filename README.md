@@ -1,48 +1,37 @@
-### Hi there 👋
+## Hi there 👋
 
 A little bit about me
 
 - 🌱 I’m currently learning React and MERN (mongoDB, Express, React, Node) stack!
 - 🚀 I have knowledge in the WAMP (Windows, Apache, MySql, Php) stack.
 - ⚡ Fun fact: I play CSGO occasionaly!
- 
-<h3>💻 Programming languages</h3>
+
+### 🛸 Technologies
 <p>
-  <img alt="C#" src="https://simpleicons.org/icons/csharp.svg" width="30" />
-  <img alt="Java" src="https://simpleicons.org/icons/java.svg" width="30" />
-  <img alt="JavaScript" src="https://simpleicons.org/icons/javascript.svg" width="30" />
-  <img alt="Php" src="https://simpleicons.org/icons/php.svg" width="30" />
-  <img alt="Python" src="https://simpleicons.org/icons/python.svg" width="30" />
+ <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+ <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+ <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+ <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+ <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+ <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+ <img alt="C#" src="https://img.shields.io/badge/-Sharp-239120?style=flat-square&logo=c#&logoColor=white" />
+ <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+ <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" />
+ <img alt="Php" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white" />
+ <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+ <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=white" />
+ <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white" />
+ <img alt="MySql" src="https://img.shields.io/badge/-MySql-4479A1?style=flat-square&logo=MySql&logoColor=white" />
+ <img alt="SqlServer" src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+ <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+ <img alt="Gulp" src="https://img.shields.io/badge/-Gulp-CF4647?style=flat-square&logo=gulp&logoColor=white" />
+ <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+ <img alt="AndroidStudio" src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android&logoColor=white" />
 </p>
 
-<h3>📚 JavaScript Libraries</h3>
-<p>
-   <img alt="Bootstrap" src="https://simpleicons.org/icons/bootstrap.svg" width="30" />
-   <img alt="jQuery" src="https://simpleicons.org/icons/jquery.svg" width="30" />
-   <img alt="React" src="https://simpleicons.org/icons/react.svg" width="30" />
-</p>
 
-<h3>🗄 Databases</h3>
-<p>
-   <img alt="MySql" src="https://simpleicons.org/icons/mysql.svg" width="30" />
-   <img alt="SqlServer" src="https://simpleicons.org/icons/microsoftsqlserver.svg" width="30" />
-</p>
-
-<h3>🔧 Other technologies and tools</h3>
-<p>
-  <img alt="AndroidStudio" src="https://simpleicons.org/icons/androidstudio.svg" width="30" />
-  <img alt="CSS3" src="https://simpleicons.org/icons/css3.svg" width="30" />
-  <img alt="Git" src="https://simpleicons.org/icons/git.svg" width="30" />
-  <img alt="GraphQL" src="https://simpleicons.org/icons/graphql.svg" width="30" />
-  <img alt="Gulp" src="https://simpleicons.org/icons/gulp.svg" width="30" />
-  <img alt="HTML5" src="https://simpleicons.org/icons/html5.svg" width="30" />
-  <img alt="Node" src="https://simpleicons.org/icons/node-dot-js.svg" width="30" />
-  <img alt="Npm" src="https://simpleicons.org/icons/npm.svg" width="30" />
-  <img alt="Postman" src="https://simpleicons.org/icons/postman.svg" width="30" />
-</p>
-
-<h3>Where to find me</h3>
-<p><a href="https://www.linkedin.com/in/gabrielbrandalisse/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+### 📌 Where to find me
+<p><a href="https://www.linkedin.com/in/gabrielbrandalisse/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="gabibrandalisse@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 </p>
 
   
