@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-A little bit about me
+A little bit about me:
 
 - 🌱 I’m currently learning React and the MERN (mongoDB, Express, React, Node) stack!
 - 🚀 I have knowledge in the WAMP (Windows, Apache, MySql, Php) stack.
