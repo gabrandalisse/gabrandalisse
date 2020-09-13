@@ -2,7 +2,7 @@
 
 A little bit about me:
 
-- 🌱 I’m currently learning React and the MERN (mongoDB, Express, React, Node) stack!
+- 🌱 I’m currently learning React and the MERN (MongoDB, Express, React, Node) stack!
 - 🚀 I have knowledge in the WAMP (Windows, Apache, MySql, Php) stack.
 - ⚡ Fun fact: I play LoL occasionaly!
 
