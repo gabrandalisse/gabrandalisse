@@ -2,8 +2,8 @@
 
 A little bit about me:
 
-- 🌱 I’m currently learning the JAM stack!
-- 🚀 I have knowledge in the WAMP (Windows, Apache, MySql, Php) and MERN stack.
+- 🌱 I’m currently learning about PWA!
+- 🚀 I have knowledge in the WAMP (Windows, Apache, MySql, Php), MERN stack and JAM stack.
 
 ### 🛸 Technologies
 <p>
