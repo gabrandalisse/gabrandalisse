@@ -2,7 +2,7 @@
 
 A little bit about me:
 
-- 🌱 I’m currently learning about PWA!
+- 🌱 I’m currently learning about AWS (Lambda & Step Functions)!
 - 🚀 I have knowledge in the WAMP (Windows, Apache, MySql, Php), MERN stack and JAM stack.
 
 ### 🛸 Technologies
@@ -10,6 +10,7 @@ A little bit about me:
  <img alt="C#" src="https://img.shields.io/badge/-Sharp-239120?style=flat-square&logo=c#&logoColor=white" />
  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" />
+ <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" />
  <img alt="Php" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white" />
  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
